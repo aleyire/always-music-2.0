@@ -1,5 +1,4 @@
-## Always Music :musical_score:
-Aplicación en node que realiza consultas a postgreSQL a través del paquete 'pg' el cual realiza las siguientes acciones:
+## Always Music 2.0 :musical_score:
 En éste desafío se ocupa la clase Pool definiendo sus diferentes propiedades, para capturar los posibles errores en el proceso de conexión con la base de datos al realizar las siguientes consultas, usando textos parametrizados y Prepared Statement:
 
 - Agregar un nuevo estudiante.
